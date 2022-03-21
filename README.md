@@ -1,5 +1,5 @@
 # Exploratory Data Analysis with Streamlit
-Explore your dataset by visualizing graphs and charts using this web app. This EDA app is built with Streamlit and utilizes Seaborn package for data visualization. The web app is deployed on Heroku cloud platform.
+Explore any dataset by uploading it and visualizing graphs and charts using this web app. This EDA app is built with Streamlit and utilizes Seaborn package for data visualization. The web app is deployed on Heroku cloud platform.
 
 Web app - https://eda-with-streamlit.herokuapp.com/
 
